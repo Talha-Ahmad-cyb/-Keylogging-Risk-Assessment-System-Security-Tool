@@ -1,0 +1,2 @@
+# -Keylogging-Risk-Assessment-System-Security-Tool
+This is a cross-platform security application built in Python designed to audit local systems for keyloggers &amp; stealth background threats. Modern surveillance software often operates silently by hooking into system startup routines, running background processes or executing hidden scripts, engine to detect &amp; report these suspicious host activities
